@@ -1,0 +1,27 @@
+{
+  "name": "hider",
+  "version": "1.0.0",
+  "description": "All of your window hiding needs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MrTimcakes/hider.git"
+  },
+  "keywords": [
+    "Hide",
+    "Hider",
+    "Windows"
+  ],
+  "author": "MrTimcakes",
+  "license": "GNU GPL v3",
+  "bugs": {
+    "url": "https://github.com/MrTimcakes/hider/issues"
+  },
+  "homepage": "https://github.com/MrTimcakes/hider#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.1.1"
+  }
+}
