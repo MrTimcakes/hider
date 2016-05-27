@@ -1,5 +1,6 @@
 {
   "name": "hider",
+  "displayName": "Hider",
   "version": "1.0.0",
   "description": "All of your window hiding needs",
   "main": "main.js",
@@ -15,13 +16,14 @@
     "Hider",
     "Windows"
   ],
-  "author": "MrTimcakes",
+  "author": "MrTimcakes <MrTimcakes@gmail.com> (Ducke.uk)",
   "license": "GNU GPL v3",
   "bugs": {
     "url": "https://github.com/MrTimcakes/hider/issues"
   },
   "homepage": "https://github.com/MrTimcakes/hider#readme",
-  "devDependencies": {
-    "electron-prebuilt": "^1.1.1"
+  "dependencies": {
+    "ffi": "^2.0.0",
+    "electron-rebuild": "^1.1.4"
   }
 }
