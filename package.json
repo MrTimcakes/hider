@@ -16,14 +16,17 @@
     "Hider",
     "Windows"
   ],
-  "author": "MrTimcakes <MrTimcakes@gmail.com> (Ducke.uk)",
+  "author": "MrTimcakes <MrTimcakes@gmail.com>",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/MrTimcakes/hider/issues"
   },
   "homepage": "https://github.com/MrTimcakes/hider#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.2"
+  },
   "dependencies": {
-    "ffi": "^2.0.0",
+    "node-hide": "^1.2.0",
     "electron-rebuild": "^1.1.4"
   }
 }
