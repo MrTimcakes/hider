@@ -1,4 +1,4 @@
-# hider
+# Hider
 [![Travis](https://img.shields.io/travis/MrTimcakes/hider.svg?style=flat-square)](https://travis-ci.org/MrTimcakes/hider)
 [![David](https://img.shields.io/david/MrTimcakes/hider.svg?maxAge=2592000&style=flat-square)](https://david-dm.org/MrTimcakes/hider)
 
