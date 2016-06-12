@@ -5,7 +5,7 @@ const BrowserWindow = electron.BrowserWindow
 let mainWindow
 
 function createWindow () {
-  mainWindow = new BrowserWindow({width: 800, height: 600, icon: 'css/images/hider.png'})
+  mainWindow = new BrowserWindow({width: 800, height: 600, icon: 'css/images/hider.ico'})
 
   mainWindow.loadURL(`file://${__dirname}/index.html`)
   mainWindow.webContents.openDevTools()
