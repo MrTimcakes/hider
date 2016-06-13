@@ -26,7 +26,6 @@
     "electron-prebuilt": "^1.2.2"
   },
   "dependencies": {
-    "node-hide": "^1.2.1",
-    "electron-rebuild": "^1.1.4"
+    "electron-rebuild": "^1.1.5"
   }
 }
